@@ -4,6 +4,10 @@ Tailwind CSS が便利だったので、Express での開発時でも使用し�
 
 Next.js を使用した場合は、プロジェクト作成時のウィザードで Tailwind CSS を使用する選択をすればいいだけだが、Next.js を使用しない場合は公式ドキュメントに従って手動で導入する必要があります。
 
+# 完成品
+
+作成したサンプルコードは[こちら](https://github.com/kuboshu83/study-tailwindcss-express)です。
+
 # 構成
 
 今回は基本的な Express での開発のため、以下のようなディレクトリ構成になっています。
